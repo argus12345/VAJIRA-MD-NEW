@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "VAJIRA-MD=vFlFCCgb#7BCVbNP-GlaFTnq2zOEmV86deFcKAGug6FU6fbu_1GQ",
+            "description": "VAJIRA-MD=LRUBQYqR#MkU4hl1DlWtq4HxX8_rgmeTuGJ4fvSWt7ElcpRcv7ys",
             "required": true,
             "value": "put session id here"
         },
@@ -32,7 +32,7 @@
             "value": "postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech"
         },
     "OWNER_NUMBER": {
-            "description": "Put Your number here / ඔබගෙ දුරකතන අංකය දමන්න",
+            "description": "94741131420",
             "required": true,
             "value": "9471xxxxxxx"
 }
